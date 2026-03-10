@@ -8,11 +8,12 @@ public:
         int n = nums.size();
         long long score = 0;
 
-        // Min heap -> (value, index)
+        // Min Heap -> (value, index)
         priority_queue<pair<int,int>, 
                        vector<pair<int,int>>, 
                        greater<pair<int,int>>> pq;
 
+        // Push all elements into heap
         for(int i = 0; i < n; i++) {
             pq.push({nums[i], i});
         }
@@ -20,21 +21,26 @@ public:
         vector<bool> visited(n, false);
 
         while(!pq.empty()) {
-            
-            auto [value, idx] = pq.top();
+            auto top = pq.top();
             pq.pop();
 
+            int value = top.first;
+            int idx = top.second;
+
+            // If already marked, skip
             if(visited[idx]) continue;
 
             // Add to score
             score += value;
 
-            // Mark current and neighbors visited
+            // Mark current index
             visited[idx] = true;
 
+            // Mark left neighbor
             if(idx - 1 >= 0)
                 visited[idx - 1] = true;
 
+            // Mark right neighbor
             if(idx + 1 < n)
                 visited[idx + 1] = true;
         }
@@ -47,7 +53,8 @@ int main() {
     Solution sol;
 
     vector<int> nums = {2, 1, 3, 4, 5, 2};
-    cout << sol.findScore(nums) << endl;
+
+    cout << sol.findScore(nums) << endl;   // Expected Output: 7
 
     return 0;
 }
