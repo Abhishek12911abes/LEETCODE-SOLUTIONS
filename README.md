@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
