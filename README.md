@@ -75,5 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3516-find-closest-person](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3516-find-closest-person) |
+## String
+|  |
+| ------- |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 <!---LeetCode Topics End-->
