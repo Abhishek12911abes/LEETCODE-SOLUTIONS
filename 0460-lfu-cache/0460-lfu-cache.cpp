@@ -2,8 +2,8 @@ class LFUCache {
 private:
     int cap;
     int size;
-    unordered_map<int, list<vector<int>>::iterator> mp; //key -> address of list of vector{key, value, freq}
-    map<int, list<vector<int>>> freq; //freq -> list of vector{key, value, freq}
+    unordered_map<int, list<vector<int>>::iterator> mp;
+    map<int, list<vector<int>>> freq;
     
 public:
     LFUCache(int capacity) {
@@ -57,11 +57,11 @@ public:
             freq[1].push_front(vector<int>({key, value, 1}));
             mp[key] = freq[1].begin();
         }
-        else { //Time to remove LFU or LRU if tie
+        else {
             
             auto &kaun_sa_list = freq.begin()->second;
             
-            int key_delete = (kaun_sa_list.back())[0]; //ordered_map ensures that the begin() will be th eleast frequency
+            int key_delete = (kaun_sa_list.back())[0];
             
             kaun_sa_list.pop_back();
             
