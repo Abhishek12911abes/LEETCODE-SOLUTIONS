@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3516-find-closest-person](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3516-find-closest-person) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
