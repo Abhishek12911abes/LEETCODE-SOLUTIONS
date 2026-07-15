@@ -1,11 +1,10 @@
 class Solution {
 public:
-    typedef long long int ll;
     int gcdOfOddEvenSums(int n) {
-        ll oddSum=0;
-        ll evenSum=0;
+        int oddSum=0;
+        int evenSum=0;
         int temp=n;
-        ll i=1,j=2;
+        int i=1,j=2;
         while(temp){
             oddSum+=i;
             evenSum+=j;
