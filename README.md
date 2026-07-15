@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3516-find-closest-person](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
