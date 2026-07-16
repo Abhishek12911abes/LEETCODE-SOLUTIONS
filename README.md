@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Bit Manipulation
