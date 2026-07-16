@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Recursion + Memoization 
+    
     // int t[2001][2001]; // n^2 states // TLE - 32/37
     // // TC = O(n^2 * O(n+n)) ~ O(n^3)
     // bool isPalindrome(string& s, int i, int j) {
@@ -33,6 +35,9 @@ public:
         int n = s.length();
         // memset(t, -1, sizeof(t));
         // return solve(s, 0, n-1);
+
+
+        // Bottom Up
 
         // Pehle ham log Blueprint wale code se dp table bhar lete hai jisse ham wo ye bata dega ki s[0...i] palindrome hai ki nhi
 
