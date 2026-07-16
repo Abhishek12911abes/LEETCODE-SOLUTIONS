@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1745-palindrome-partitioning-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1745-palindrome-partitioning-iv) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1745-palindrome-partitioning-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1745-palindrome-partitioning-iv) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
