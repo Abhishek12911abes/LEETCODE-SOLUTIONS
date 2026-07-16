@@ -11,9 +11,6 @@ public:
             prefixGCD[i]=gcd(nums[i],maxi);
         }
         sort(begin(prefixGCD),end(prefixGCD));
-        for(int num : prefixGCD){
-            cout<<num<<" ";
-        }
         ll sum=0;
         for(int i=0;2*i<n;i++){
             sum+=gcd(prefixGCD[i],prefixGCD[n-i-1]);
