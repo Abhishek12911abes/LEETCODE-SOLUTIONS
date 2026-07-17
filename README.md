@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
