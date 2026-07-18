@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
