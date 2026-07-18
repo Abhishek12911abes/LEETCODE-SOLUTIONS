@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3516-find-closest-person](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3516-find-closest-person) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
