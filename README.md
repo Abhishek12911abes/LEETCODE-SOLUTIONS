@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -216,4 +220,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
