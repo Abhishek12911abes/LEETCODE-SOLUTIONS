@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1745-palindrome-partitioning-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1745-palindrome-partitioning-iv) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
