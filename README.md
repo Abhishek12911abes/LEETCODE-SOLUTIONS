@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [1332-remove-palindromic-subsequences](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1332-remove-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2785-sort-vowels-in-a-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
