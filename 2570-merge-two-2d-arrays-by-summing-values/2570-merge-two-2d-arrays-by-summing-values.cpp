@@ -3,8 +3,6 @@ public:
     vector<vector<int>> mergeArrays(vector<vector<int>>& nums1, vector<vector<int>>& nums2) {
         int n=nums1.size();
         int m=nums2.size();
-        sort(begin(nums1),end(nums1));
-        sort(begin(nums2),end(nums2));
 
         int i=0,j=0;
         vector<vector<int>>ans;
