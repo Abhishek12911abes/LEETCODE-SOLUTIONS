@@ -59,8 +59,9 @@ public:
 
 
         for(int i=0;i<n;i++){
-            expand(i,i,s);
-            expand(i,i+1,s);
+            expand(i,i,s); // odd length expansion 
+
+            expand(i,i+1,s); // even length expansion
         }
         return s.substr(start_i,maxLen);
         
