@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
