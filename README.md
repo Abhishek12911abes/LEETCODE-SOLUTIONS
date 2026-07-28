@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2785-sort-vowels-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
