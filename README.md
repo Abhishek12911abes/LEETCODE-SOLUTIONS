@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
