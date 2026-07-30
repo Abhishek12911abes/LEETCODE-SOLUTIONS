@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1745-palindrome-partitioning-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1745-palindrome-partitioning-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
