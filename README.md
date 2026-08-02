@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -329,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
