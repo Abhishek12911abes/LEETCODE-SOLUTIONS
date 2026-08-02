@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+| [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
@@ -335,5 +338,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
