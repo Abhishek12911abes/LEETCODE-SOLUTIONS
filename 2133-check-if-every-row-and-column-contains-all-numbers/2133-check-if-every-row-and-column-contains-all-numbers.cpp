@@ -14,10 +14,6 @@ public:
             if (st.size() != n)
                 return false;
 
-            for (int x : st) {
-                if (x < 1 || x > n)
-                    return false;
-            }
 
             i++;
         }
@@ -32,11 +28,6 @@ public:
 
             if (st.size() != n)
                 return false;
-
-            for (int x : st) {
-                if (x < 1 || x > n)
-                    return false;
-            }
 
             j++;
         }
