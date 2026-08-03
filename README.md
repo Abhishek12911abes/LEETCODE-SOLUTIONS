@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
