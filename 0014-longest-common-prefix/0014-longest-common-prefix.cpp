@@ -1,39 +1,39 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        int n = strs.size();
-        int minLen = INT_MAX;
-        int pos = -1;
+        int n=strs.size();
+        if(n==1){
+            return strs[0];
+        }
+        int minLen=INT_MAX;
+        string temp;
 
-        // pehle sabse CHHOTI string dhundo (longest common prefix kabhi
-        // shortest string se lamba nahi ho sakta)
-        for (int i = 0; i < n; i++) {
-            if (strs[i].size() < minLen) {
-                minLen = strs[i].size();
-                pos = i;
+        for(string &s : strs){
+            if((int)s.size()<minLen){
+                minLen=(int)s.size();
+                temp=s;
             }
         }
 
+        int j=0;
         string ans;
-        for (int j = 0; j < strs[pos].size(); j++) {
-            char ch = strs[pos][j];
-
-            // ab check karo ki SABHI strings ke SAME index 'j' pe
-            // ye same character 'ch' hai ki nahi
-            bool allMatch = true;
-            for (int i = 0; i < n; i++) {
-                if (strs[i][j] != ch) {   // sirf index j check karo, poori string nahi
-                    allMatch = false;
+        while(j<minLen){
+            char ch=temp[j];
+            bool found=true;
+            for(int i=0;i<strs.size();i++){
+                if(strs[i][j]!=ch){
+                    found=false;
                     break;
                 }
             }
-
-            if (!allMatch) {
-                return ans;   // yahan tak jo match hua wahi return karo
-            } else {
-                ans += ch;
+            if(found){
+                ans+=ch;
             }
+            else{
+                break;
+            }
+            j++;
         }
-        return ans;
+        return !ans.empty()?ans:"";
     }
 };
