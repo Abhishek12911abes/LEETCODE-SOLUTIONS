@@ -15,7 +15,7 @@ public:
         int i=0,j=n-1;
         while(i<j){
             if(s[i]!=s[j]){
-                return solve(s,i+1,j) || solve(s,i,j-1);
+                return solve(s,i+1,j) || solve(s,i,j-1); // at most 1 char ko chor skte ho
             }
             i++,j--;
         }
