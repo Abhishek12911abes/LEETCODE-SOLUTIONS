@@ -2,10 +2,12 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         int n=s.size();
+
+        int maxLen=-1;
+        unordered_map<char,int>mp;
         int i=0,j=0;
-        unordered_map<int,int> mp;
-        int maxLen=-1; 
-        int maxFreq=0;     
+
+        int maxFreq=0;
         while(j<n){
             mp[s[j]]++;
             maxFreq=max(maxFreq,mp[s[j]]);
@@ -20,5 +22,6 @@ public:
             j++;
         }
         return maxLen;
+        
     }
 };
