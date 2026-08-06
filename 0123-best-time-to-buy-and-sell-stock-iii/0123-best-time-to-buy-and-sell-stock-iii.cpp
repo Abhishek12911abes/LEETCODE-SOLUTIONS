@@ -1,36 +1,31 @@
 class Solution {
 public:
-    int getAns(vector<int>& Arr, int n, int ind, int buy, int cap, vector<vector<vector<int>>>& dp) {
-    // Base case: If we reach the end of the array or run out of allowed transactions, return 0.
-    if (ind == n || cap == 0)
-        return 0;
+    int dp[100001][2][3];
+    int n;
+    int solve(vector<int>& prices , int idx , int buy , int cap){
+        if(idx>=n || cap==0){
+            return 0;
+        }
+        if(dp[idx][buy][cap]!=-1){
+            return dp[idx][buy][cap];
+        }
+        int maxProfit=0;
+        if(buy){
+            maxProfit=max(-prices[idx]+solve(prices,idx+1,0,cap) , 0 + solve(prices,idx+1,1,cap));
+        }
+        else{
+            maxProfit=max(prices[idx]+solve(prices,idx+1,1,cap-1), 0 + solve(prices,idx+1,0,cap));
+            // agar buy and sell dono kr dega tab jake cap-1 hoga
+        }
 
-    // If the result is already calculated, return it.
-    if (dp[ind][buy][cap] != -1)
-        return dp[ind][buy][cap];
-
-    int profit;
-
-    if (buy == 0) { // We can buy the stock
-        profit = max(0 + getAns(Arr, n, ind + 1, 0, cap, dp),
-                     -Arr[ind] + getAns(Arr, n, ind + 1, 1, cap, dp));
+        return dp[idx][buy][cap]=maxProfit;
     }
-
-    if (buy == 1) { // We can sell the stock
-        profit = max(0 + getAns(Arr, n, ind + 1, 1, cap, dp),
-                     Arr[ind] + getAns(Arr, n, ind + 1, 0, cap - 1, dp));
+    int maxProfit(vector<int>& prices) {
+        n=prices.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(prices,0,1,2); // prices,idx,buy,capacity;
+        // 1 means buy and 0 means sell
+        
+        
     }
-
-    // Store and return the calculated profit.
-    return dp[ind][buy][cap] = profit;
-}
-
-int maxProfit(vector<int>& prices) {
-    int n=prices.size();
-    // Creating a 3D DP array of size [n][2][3]
-    vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(3, -1)));
-
-    // Call the recursive function to calculate maximum profit
-    return getAns(prices, n, 0, 0, 2, dp);
-}
 };
