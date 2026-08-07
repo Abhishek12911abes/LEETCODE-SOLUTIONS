@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
