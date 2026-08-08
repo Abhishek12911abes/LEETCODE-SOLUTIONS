@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
