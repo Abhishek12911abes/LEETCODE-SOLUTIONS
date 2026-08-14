@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1745-palindrome-partitioning-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1745-palindrome-partitioning-iv) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
