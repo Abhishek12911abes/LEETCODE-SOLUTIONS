@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3206-alternating-groups-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 ## Bit Manipulation
 |  |
 | ------- |
