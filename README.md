@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
+| [1052-grumpy-bookstore-owner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
