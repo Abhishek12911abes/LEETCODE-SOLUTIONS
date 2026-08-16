@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Enumeration
 |  |
