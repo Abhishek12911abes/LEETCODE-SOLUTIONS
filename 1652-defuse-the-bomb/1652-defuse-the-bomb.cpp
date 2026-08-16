@@ -1,50 +1,42 @@
+
+//Approach-2 (Sliding Window)
+//T.C : O(n)
+//S.C : O(1)
 class Solution {
 public:
     vector<int> decrypt(vector<int>& code, int k) {
         int n = code.size();
-        vector<int> ans(n, 0);
 
-        if (k == 0)
-            return ans;
-
-        // Duplicate array
-        for (int i = 0; i < n; i++) {
-            code.push_back(code[i]);
+        vector<int> result(n, 0);
+        if(k == 0) {
+            return result; //{0, 0, 0,...}
         }
 
-        // Prefix sum
-        vector<int> prefix(2 * n + 1, 0);
-
-        for (int i = 0; i < 2 * n; i++) {
-            prefix[i + 1] = prefix[i] + code[i];
+        int i = -1, j = -1;
+        if(k > 0) {
+            i = 1;
+            j = k;
+        } else {
+            i = n - abs(k);
+            j = n-1;
         }
 
-        // k > 0
-        if (k > 0) {
-            for (int i = 0; i < n; i++) {
-
-                // next k elements
-                int l = i + 1;
-                int r = i + k;
-
-                ans[i] = prefix[r + 1] - prefix[l];
-            }
+        int windowSum = 0;
+        for(int pointer = i; pointer <= j; pointer++) {
+            windowSum += code[pointer];
         }
 
-        // k < 0
-        else {
-            k = -k;
+        for(int k = 0; k < n; k++) { //result[k]
+            result[k] = windowSum;
 
-            for (int i = 0; i < n; i++) {
+            windowSum -= code[i % n];
+            i++;
 
-                // previous k elements
-                int l = i + n - k;
-                int r = i + n - 1;
-
-                ans[i] = prefix[r + 1] - prefix[l];
-            }
+            windowSum += code[(j+1)%n];
+            j++;
         }
 
-        return ans;
+        return result;
+
     }
 };
