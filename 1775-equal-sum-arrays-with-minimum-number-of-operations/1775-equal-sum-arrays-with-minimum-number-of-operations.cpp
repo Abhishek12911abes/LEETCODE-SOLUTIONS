@@ -26,9 +26,6 @@ public:
             while(!pq.empty() && diff>0){
                 int maxi=pq.top();
                 pq.pop();
-                // if(maxi==0){
-                //     break;
-                // }
                 diff-=maxi;
                 ops++;
             }
@@ -48,10 +45,6 @@ public:
             while(!pq.empty() && diff>0){
                 int maxi=pq.top();
                 pq.pop();
-
-                // if(maxi==0){
-                //     break;
-                // }
                 diff-=maxi;
                 ops++;
             }
