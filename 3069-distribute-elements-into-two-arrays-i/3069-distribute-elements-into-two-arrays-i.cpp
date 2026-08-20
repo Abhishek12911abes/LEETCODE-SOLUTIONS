@@ -13,14 +13,14 @@ public:
                 arr2.push_back(nums[i]);
             }
         }
-        vector<int>ans;
-        for(int num : arr1){
-            ans.push_back(num);
+        int k=0;
+        for(int i=0;i<arr1.size();i++){
+            nums[k++]=arr1[i];
         }
-        for(int num : arr2){
-            ans.push_back(num);
+        for(int j=0;j<arr2.size();j++){
+            nums[k++]=arr2[j];
         }
-        return ans;
+        return nums;
            
         
     }
