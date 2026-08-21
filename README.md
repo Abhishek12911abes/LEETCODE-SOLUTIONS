@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
