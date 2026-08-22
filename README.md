@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
