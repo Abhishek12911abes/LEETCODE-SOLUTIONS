@@ -24,19 +24,32 @@ public:
 
         // State Defn - dp[i]= true means mai i tak pahuch skta hu from idx 0
 
-        vector<int>dp(n,false);
+        // vector<int>dp(n,false);
 
-        dp[0]=true;
+        // dp[0]=true; // tc - O(n^2) sc - O(n)
 
-        for(int i=1;i<n;i++){
-            for(int j=i-1;j>=0;j--){
-                if(j+nums[j]>=i && dp[j]==true){
-                    dp[i]=true;
-                    break;
-                }
+        // for(int i=1;i<n;i++){
+        //     for(int j=i-1;j>=0;j--){
+        //         if(j+nums[j]>=i && dp[j]==true){
+        //             dp[i]=true;
+        //             break;
+        //         }
+        //     }
+        // }
+        // return dp[n-1];
+
+        // Approach 3) Greedy
+
+        int maxReachable = 0;
+        
+        for(int i = 0; i<n; i++) {
+            if(i > maxReachable) {
+                return false;
             }
+            maxReachable = max(maxReachable, nums[i]+i);
         }
-        return dp[n-1];
+        
+        return true;
 
 
     }
