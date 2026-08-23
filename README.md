@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3453-separate-squares-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3453-separate-squares-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3453-separate-squares-i) |
 ## Enumeration
 |  |
 | ------- |
