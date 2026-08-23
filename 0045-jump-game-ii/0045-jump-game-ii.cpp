@@ -27,18 +27,35 @@ public:
 
         // Bottom Up (Tabulation)
 
-        // State defn - dp[i]=min number of steps to move from index 0 to index i;
-        vector<int>dp(n,INT_MAX);
-        dp[0]=0;
+        // State defn - dp[i]=min number of steps to move from index 0 to index
+        // i; vector<int>dp(n,INT_MAX); dp[0]=0;
 
-        for(int i=1;i<n;i++){
-            for(int j=i-1;j>=0;j--){
-                if(j+nums[j]>=i){
-                    dp[i]=min(dp[i],1+dp[j]);
-                }
+        // for(int i=1;i<n;i++){
+        //     for(int j=i-1;j>=0;j--){
+        //         if(j+nums[j]>=i){
+        //             dp[i]=min(dp[i],1+dp[j]);
+        //         }
+        //     }
+        // }
+        // return dp[n-1];
+
+        // Approach 3 ) Greedy
+
+        int jumps = 0;  // kitne jumps lage
+        int farthest = 0; // abhi tak maximum kitni door pahunch sakte hain
+        int currentEnd = 0; // current jump ki range kaha tak hai
+
+        for (int i = 0; i < n - 1; i++) {
+
+            farthest = max(farthest, i + nums[i]);
+
+            // Current jump ki range khatam
+            if (i == currentEnd) {
+                jumps++;
+                currentEnd = farthest;
             }
         }
-        return dp[n-1];
 
+        return jumps;
     }
 };
