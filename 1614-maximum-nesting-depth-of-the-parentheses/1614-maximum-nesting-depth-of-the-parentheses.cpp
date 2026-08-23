@@ -11,7 +11,7 @@ public:
             }
             else if(c==')'){
                 countOpen--;
-                maxi=max(maxi,countOpen);
+                // maxi=max(maxi,countOpen);
             }
         }
         return maxi;
