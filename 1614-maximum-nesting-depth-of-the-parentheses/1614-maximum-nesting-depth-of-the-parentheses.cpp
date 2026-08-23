@@ -13,6 +13,7 @@ public:
                 countOpen--;
                 // maxi=max(maxi,countOpen);
             }
+            
         }
         return maxi;
         
