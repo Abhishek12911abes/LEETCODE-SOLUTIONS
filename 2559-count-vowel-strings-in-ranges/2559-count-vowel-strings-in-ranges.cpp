@@ -17,9 +17,9 @@ public:
                 prefixSum[i]=prefixSum[i-1];
             }
         }
-        for (int num : prefixSum) {
-            cout << num << " ";
-        }
+        // for (int num : prefixSum) {
+        //     cout << num << " ";
+        // }
         int k = queries.size();
         vector<int> ans;
         for (auto query : queries) {
