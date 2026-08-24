@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Array
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
 ## Bit Manipulation
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
