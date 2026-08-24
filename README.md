@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
 | [0740-delete-and-earn](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0740-delete-and-earn) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
