@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1323-maximum-69-number) |
