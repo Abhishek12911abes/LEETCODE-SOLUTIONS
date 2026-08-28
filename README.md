@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Array
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -660,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
