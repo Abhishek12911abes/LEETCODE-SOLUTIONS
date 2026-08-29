@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1745-palindrome-partitioning-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1323-maximum-69-number) |
 | [1400-construct-k-palindrome-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
