@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1332-remove-palindromic-subsequences](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1332-remove-palindromic-subsequences) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
+| [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1208-get-equal-substrings-within-budget) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
