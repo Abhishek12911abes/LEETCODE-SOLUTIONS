@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
