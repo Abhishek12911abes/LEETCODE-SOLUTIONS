@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1701-average-waiting-time) |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1927-sum-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
