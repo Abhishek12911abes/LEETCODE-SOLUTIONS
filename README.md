@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
+| [0791-custom-sort-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0740-delete-and-earn) |
+| [0791-custom-sort-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
