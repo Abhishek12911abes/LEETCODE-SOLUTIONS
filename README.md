@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -721,4 +723,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
