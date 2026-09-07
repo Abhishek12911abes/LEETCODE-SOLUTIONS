@@ -36,29 +36,56 @@ public:
         // TC = O(m*n);
         // SC = O(m*n);
 
-        vector<vector<ull>>dp(m+1,vector<ull>(n+1));
-        //Base Case 1) n==0 then return 1 --> m ki value chahe kuch bhi ho
+        // vector<vector<ull>>dp(m+1,vector<ull>(n+1));
+        // Base Case 1) n==0 then return 1 --> m ki value chahe kuch bhi ho
 
-        for(int i=0;i<=m;i++){
-            dp[i][0]=1;
-        }
+        // for(int i=0;i<=m;i++){
+        //     dp[i][0]=1;
+        // }
 
-        //Base Case 2) m==0 then return 0 --> n ki value chahe kuch bhi ho
-        for(int i=1;i<=n;i++){ // i=1 se isliye cuz dp[0][0] ki val 1 set hai 
-            dp[0][i]=0;
-        }
+        // Base Case 2) m==0 then return 0 --> n ki value chahe kuch bhi ho
+        // for(int i=1;i<=n;i++){ // i=1 se isliye cuz dp[0][0] ki val 1 set hai 
+        //     dp[0][i]=0;
+        // }
+
+        // for(int i=1;i<=m;i++){
+        //     for(int j=1;j<=n;j++){
+        //         if(s[i-1]==t[j-1]){
+        //             dp[i][j]=dp[i-1][j-1]+dp[i-1][j];
+        //         }
+        //         else{
+        //             dp[i][j]=dp[i-1][j];
+        //         }
+        //     }
+        // }
+        // return dp[m][n];
+
+        // Approach 2) Space Optimization;
+        // TC = O(m*n);
+        // SC = O(n); // col ki len
+
+        vector<ull>curr(n+1,0);
+
+        vector<ull>prev(n+1,0);
+
+        prev[0]=1;
+        curr[0]=1;
 
         for(int i=1;i<=m;i++){
-            for(int j=1;j<=n;j++){
+             for(int j=1;j<=n;j++){
                 if(s[i-1]==t[j-1]){
-                    dp[i][j]=dp[i-1][j-1]+dp[i-1][j];
+                    curr[j]=prev[j-1]+prev[j];
                 }
                 else{
-                    dp[i][j]=dp[i-1][j];
+                    curr[j]=prev[j];
                 }
             }
+            prev=curr;
         }
-        return dp[m][n];
+
+        return prev[n];
+
+
         
     }
 };
