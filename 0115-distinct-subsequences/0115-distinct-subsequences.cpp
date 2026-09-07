@@ -1,37 +1,64 @@
-//Approach-1 (Recursion + MEmoization)
-//T.C : O(m*n)
-//S.C : O(m*n)
 class Solution {
 public:
+    // Approach 1) Recur + Memo
+    // TC = O(m*n);
+    // SC = O(m*n);
 
-    int dp[1001][1001];
-    int solve(string& s, string& t, int m, int n) {
-        if(n == 0)
-            return dp[m][n] = 1;
-        if(m == 0)
-            return dp[m][n] = 0;
-        
-        if(dp[m][n] != -1)
-            return dp[m][n];
-        
-        /*
-            (rabb) b (it)
-            (ra)   b (bbit)
-            (rab)  b (bit)
-            This can help to understand the if condition below
-        */
-        if(s[m-1] == t[n-1])
-            return dp[m][n] = solve(s, t, m-1, n) + solve(s, t, m-1, n-1);
-        else
-            return dp[m][n] = solve(s, t, m-1, n);
-    }
-
+    typedef unsigned long long ull;
+    // ull dp[1001][1001];
+    // ull solve(string& s , string& t , int m , int n){
+    //     if(n==0){
+    //         return dp[m][n]=1; // ek aisa distinct subseq mil gya jo t jaisa hai
+    //     }
+    //     if(m==0){
+    //         return dp[m][n]=0;
+    //     }
+    //     if(dp[m][n]!=-1){
+    //         return dp[m][n];
+    //     }
+    //     if(s[m-1]==t[n-1]){
+    //         return dp[m][n]=solve(s,t,m-1,n-1)+solve(s,t,m-1,n);
+    //     }
+    //     else{
+    //         return dp[m][n]=solve(s,t,m-1,n);
+    //     }
+    //     return -1;
+    // }
     int numDistinct(string s, string t) {
-        int m = s.length();
-        int n = t.length();
-        if(m < n)
-            return 0;
-        memset(dp, -1, sizeof(dp));
-        return solve(s, t, m, n);
+        int m=s.size();
+        int n=t.size();
+
+        // memset(dp,-1,sizeof(dp));
+
+        // return solve(s,t,m,n);
+
+        // Approach 2) Bottom Up;
+        // TC = O(m*n);
+        // SC = O(m*n);
+
+        vector<vector<ull>>dp(m+1,vector<ull>(n+1));
+        //Base Case 1) n==0 then return 1 --> m ki value chahe kuch bhi ho
+
+        for(int i=0;i<=m;i++){
+            dp[i][0]=1;
+        }
+
+        //Base Case 2) m==0 then return 0 --> n ki value chahe kuch bhi ho
+        for(int i=1;i<=n;i++){ // i=1 se isliye cuz dp[0][0] ki val 1 set hai 
+            dp[0][i]=0;
+        }
+
+        for(int i=1;i<=m;i++){
+            for(int j=1;j<=n;j++){
+                if(s[i-1]==t[j-1]){
+                    dp[i][j]=dp[i-1][j-1]+dp[i-1][j];
+                }
+                else{
+                    dp[i][j]=dp[i-1][j];
+                }
+            }
+        }
+        return dp[m][n];
+        
     }
 };
