@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
