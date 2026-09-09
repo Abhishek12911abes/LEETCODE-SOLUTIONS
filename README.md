@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2785-sort-vowels-in-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
