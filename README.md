@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0942-di-string-match) |
