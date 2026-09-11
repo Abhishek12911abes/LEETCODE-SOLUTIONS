@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
@@ -765,9 +767,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
