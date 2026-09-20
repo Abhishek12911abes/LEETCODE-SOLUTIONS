@@ -59,6 +59,8 @@ public:
 
         // return isBalanced(root->left) && isBalanced(root->right);
 
+
+        // Approach 2) Optimal TC O(n)
         if(!root){
             return true;
         }
