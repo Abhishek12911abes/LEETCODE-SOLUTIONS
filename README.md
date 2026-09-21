@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -835,4 +838,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
