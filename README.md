@@ -861,4 +861,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
