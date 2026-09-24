@@ -1,94 +1,37 @@
-//Approach-1 (Using Recursion + Memoization)
-//T.C : O(n) after memoization (without memoization - O(2^n)
-//S.C : O(101) ~= O(1)
-// class Solution {
-// public:
-    // int t[101];
-    // int solve(int i, string &s, int &n) {
-    //     if(t[i] != -1) {
-    //         return t[i];
-    //     }
-
-    //     if(i == n) {
-    //         return t[i] = 1; //one valid split done
-    //     }
-
-    //     if(s[i] == '0') {
-    //         return t[i] = 0; //not possible to split
-    //     }
-
-    //     int result     = solve(i+1, s, n);
-        
-    //     if(i+1 < n) {
-    //         if(s[i] == '1' || (s[i] == '2' && s[i+1] <= '6'))
-    //             result += solve(i+2, s, n);
-    //     }
-
-        
-    //     return t[i] = result;
-
-    // }
-
-    // int numDecodings(string s) {
-    //     int n = s.length();
-        
-        // memset(t, -1, sizeof(t));
-        // return solve(0, s, n);
-
-
-        // Approach-2 (Tabulation)
-
-        // vector<int>dp(n+1);
-
-        // dp[n]=1;
-        // for(int i=n-1;i>=0;i--){
-        //     if(s[i]=='0'){
-        //         dp[i]=0;
-        //     }
-        //     else{
-        //         // Single digit
-        //         dp[i] = dp[i + 1];
-
-        //         // Two digit
-        //         if(i + 1 < n &&
-        //            (s[i] == '1' ||
-        //            (s[i] == '2' && s[i + 1] <= '6'))) {
-
-        //             dp[i] += dp[i + 2];
-        //         }
-        //     }
-        // }
-        // return dp[0];
-// }
-
 class Solution {
 public:
     int n;
     int dp[101];
-    int solve(string& s , int n , int idx){
-        if(idx==n){
+    int solve(string& s, int idx){
+        if(idx>=n){
             return 1;
-        }
-        if(idx>n){
-            return 0;
         }
         if(dp[idx]!=-1){
             return dp[idx];
         }
-        int oneDigit=0,twoDigit=0;
+        int num;
+        if(idx+1<n){
+            num=(s[idx]-'0')*10+(s[idx+1]-'0');
+        }
+        int oneChar=0,twoChar=0;
+
         if(s[idx]!='0'){
-            oneDigit=solve(s,n,idx+1);
+            oneChar=solve(s,idx+1);
         }
-        int num=(s[idx]-'0')*10+(s[idx+1]-'0');
         if(num>=10 && num<=26){
-            twoDigit=solve(s,n,idx+2);
+            twoChar=solve(s,idx+2);
         }
-        return dp[idx]=oneDigit+twoDigit;
+
+        return dp[idx]=oneChar+twoChar;
     }
     int numDecodings(string s) {
-        // Your code here
         n=s.size();
         memset(dp,-1,sizeof(dp));
-        return solve(s,n,0);
+        return solve(s,0);
+        
+        // s='12'
+
+        // AB
+        // L
     }
 };
