@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1927-sum-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
