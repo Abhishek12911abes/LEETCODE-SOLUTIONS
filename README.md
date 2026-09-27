@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1332-remove-palindromic-subsequences) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Queue
 |  |
