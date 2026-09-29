@@ -1,42 +1,47 @@
-
+//Approach-1 (Recursion + Memo) - T.C : O(N^2)
 class Solution {
 public:
     int n;
-    unordered_map<int, unordered_map<int, bool>> dp;
-
-    bool solve(vector<int>& stones, int pos, int lastJump,
-               unordered_set<int>& st) {
-
-        if (pos == stones[n - 1]) {
+    unordered_map<int, int> mp;
+    int t[2001][2001];
+    
+    bool solve(vector<int>& stones, int curr_stone_index, int prevJump) {
+        if(curr_stone_index == n-1)
             return true;
-        }
-
-        if (dp.count(pos) && dp[pos].count(lastJump)) {
-            return dp[pos][lastJump];
-        }
-
-        for (int jump = lastJump - 1;
-             jump <= lastJump + 1; jump++) {
-
-            if (jump <= 0) continue;
-
-            int nextPos = pos + jump;
-
-            if (st.count(nextPos)) {
-                if (solve(stones, nextPos, jump, st)) {
-                    return dp[pos][lastJump] = true;
+        
+        bool result = false;
+        
+        if(t[curr_stone_index][prevJump] != -1)
+            return t[curr_stone_index][prevJump];
+        
+        for(int nextJump = prevJump-1; nextJump <= prevJump+1; nextJump++) {
+            
+            if(nextJump > 0) {
+                int next_stone = stones[curr_stone_index] + nextJump;
+                
+                if(mp.find(next_stone) != mp.end()) {
+                    result = result || solve(stones, mp[next_stone], nextJump);
                 }
             }
+            
         }
-
-        return dp[pos][lastJump] = false;
+        
+        return t[curr_stone_index][prevJump] = result;
+        
     }
-
+    
     bool canCross(vector<int>& stones) {
+        
+        if(stones[1] != 1)
+            return false;
+        
         n = stones.size();
-
-        unordered_set<int> st(stones.begin(), stones.end());
-
-        return solve(stones, 0, 0, st);
+        for(int i = 0; i<n; i++) {
+            mp[stones[i]] = i;
+        }
+        
+        memset(t, -1, sizeof(t));
+        
+        return solve(stones, 0, 0);
     }
 };
