@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
