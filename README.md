@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0460-lfu-cache) |
