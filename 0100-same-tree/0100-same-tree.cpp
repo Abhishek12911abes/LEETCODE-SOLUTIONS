@@ -11,23 +11,26 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* p , TreeNode* q){
+    bool solve(TreeNode* p, TreeNode* q){
         if(!p && !q){
             return true;
         }
         if((p && !q) || (!p && q)){
             return false;
         }
-        bool leftChild=solve(p->left,q->left);
-        bool rightChild=solve(p->right,q->right);
-
-        if(p->val != q->val){
+        if(p->val!=q->val){
             return false;
         }
+        bool left=solve(p->left,q->left);
+        bool right=solve(p->right,q->right);
 
-        return (leftChild && rightChild);
+        return left && right;
     }
+
     bool isSameTree(TreeNode* p, TreeNode* q) {
+        if(!p && !q){
+            return true;
+        }
         return solve(p,q);
     }
 };
