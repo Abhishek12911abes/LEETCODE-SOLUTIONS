@@ -15,17 +15,14 @@ public:
         if(!root){
             return 0;
         }
-        int left=1,right=1;
-        if(root->left){
-            left=1+solve(root->left);
-        }
-        if(root->right){
-            right=1+solve(root->right);
-        }
-        return max(left,right);
+        int left=solve(root->left);
+        int right=solve(root->right);
+        return max(left,right)+1;
     }
     int maxDepth(TreeNode* root) {
+        if(!root){
+            return 0;
+        }
         return solve(root);
-        
     }
 };
