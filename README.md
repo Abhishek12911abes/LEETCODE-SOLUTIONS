@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -984,4 +987,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
