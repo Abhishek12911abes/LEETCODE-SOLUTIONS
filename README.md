@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0443-string-compression) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
