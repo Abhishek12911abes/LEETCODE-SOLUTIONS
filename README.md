@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Geometry
 |  |
 | ------- |
