@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1323-maximum-69-number) |
 | [1400-construct-k-palindrome-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Queue
