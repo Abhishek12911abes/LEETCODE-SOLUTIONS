@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Data Stream
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2460-apply-operations-to-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3453-separate-squares-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3453-separate-squares-i) |
 ## Enumeration
 |  |
