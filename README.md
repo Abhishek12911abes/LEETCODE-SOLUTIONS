@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0443-string-compression) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0563-binary-tree-tilt) |
@@ -1005,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
