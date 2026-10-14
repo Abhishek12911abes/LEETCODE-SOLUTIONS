@@ -20,14 +20,15 @@ public:
             return target-root->val==0;
         }
 
-        int left=solve(root->left,target-root->val);
-        int right=solve(root->right,target-root->val);
+        int leftSum=solve(root->left,target-root->val);
+        int rightSum=solve(root->right,target-root->val);
 
-        return left || right;
+        return leftSum || rightSum;
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
-
+        if(!root){
+            return false;
+        }
         return solve(root,targetSum);
-        
     }
 };
