@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0740-delete-and-earn) |
 | [0791-custom-sort-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0791-custom-sort-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1005,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
