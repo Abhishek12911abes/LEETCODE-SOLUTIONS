@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2109-adding-spaces-to-a-string) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3453-separate-squares-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3453-separate-squares-i) |
 ## Enumeration
