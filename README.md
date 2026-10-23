@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
