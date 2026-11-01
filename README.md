@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0279-perfect-squares) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
