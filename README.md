@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1094-car-pooling) |
+| [1109-corporate-flight-bookings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
