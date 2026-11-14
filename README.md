@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3453-separate-squares-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3208-alternating-groups-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
