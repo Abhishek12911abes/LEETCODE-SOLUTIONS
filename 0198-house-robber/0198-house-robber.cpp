@@ -9,15 +9,16 @@ public:
         if(dp[idx]!=-1){
             return dp[idx];
         }
-        int take=nums[idx]+solve(nums,idx+2);
-        int skip=solve(nums,idx+1);
-
+        int take=0,skip=0;
+        take=take+nums[idx]+solve(nums,idx+2);
+        skip=skip+solve(nums,idx+1);
         return dp[idx]=max(take,skip);
     }
     int rob(vector<int>& nums) {
         n=nums.size();
         memset(dp,-1,sizeof(dp));
         return solve(nums,0);
+
         
     }
 };
