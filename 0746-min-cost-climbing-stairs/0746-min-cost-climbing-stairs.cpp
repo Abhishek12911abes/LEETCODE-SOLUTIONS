@@ -2,7 +2,7 @@ class Solution {
 public:
     int n;
     int dp[1001];
-    int solve(vector<int>& cost , int idx){
+    int solve(vector<int>& cost,int idx){
         if(idx>=n){
             return 0;
         }
@@ -13,17 +13,15 @@ public:
         int twoStep=cost[idx]+solve(cost,idx+2);
 
         return dp[idx]=min(oneStep,twoStep);
+
     }
     int minCostClimbingStairs(vector<int>& cost) {
         n=cost.size();
-
         memset(dp,-1,sizeof(dp));
-        
-        int idx0=solve(cost,0);
+        int way1=solve(cost,0);
+        int way2=solve(cost,1);
 
-        int idx1=solve(cost,1);
-
-        return min(idx0,idx1);
+        return min(way1,way2);
         
     }
 };
