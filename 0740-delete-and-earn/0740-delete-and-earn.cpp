@@ -1,38 +1,33 @@
 class Solution {
 public:
-    int n;
-    int solve(vector<int>& nums , unordered_map<int,int>& mp , int elem , int maxElem, vector<int>&dp){
-        if(elem>maxElem){
+    int dp[10001];
+
+    int solve(vector<int>& points, int val, int maxVal) {
+        if(val > maxVal) {
             return 0;
         }
 
-        if(dp[elem]!=-1){
-            return dp[elem]; 
+        if(dp[val] != -1) {
+            return dp[val];
         }
-        int take=0,skip=0;
 
-        take=mp[elem]*elem+solve(nums,mp,elem+2,maxElem,dp);
+        int take = points[val] + solve(points, val + 2, maxVal);
+        int skip = solve(points, val + 1, maxVal);
 
-        skip=solve(nums,mp,elem+1,maxElem,dp);
-
-        return dp[elem]=max(take,skip);
+        return dp[val] = max(take, skip);
     }
+
     int deleteAndEarn(vector<int>& nums) {
-        n=nums.size();
-        unordered_map<int,int>mp;
+        int maxVal = *max_element(begin(nums), end(nums));
 
+        vector<int> points(maxVal + 1, 0);
 
-
-        sort(begin(nums),end(nums));
-
-        int maxElem=nums.back();
-
-        for(int num : nums){
-            mp[num]++;
+        for(int num : nums) {
+            points[num] += num;
         }
 
-        vector<int>dp(maxElem+1,-1);
+        memset(dp, -1, sizeof(dp));
 
-        return solve(nums,mp,nums[0],maxElem,dp);
+        return solve(points, 0, maxVal);
     }
 };
