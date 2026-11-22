@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0983-minimum-cost-for-tickets) |
+| [1025-divisor-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
 ## Recursion
@@ -1151,4 +1154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0732-my-calendar-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
