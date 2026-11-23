@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0198-house-robber) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0409-longest-palindrome) |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -886,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
 |  |
@@ -1167,4 +1173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/1025-divisor-game) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Abhishek12911abes/LEETCODE-SOLUTIONS/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
