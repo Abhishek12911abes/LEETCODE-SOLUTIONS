@@ -1,31 +1,37 @@
+//Approach-2 (Follow up optimal in O(1))
+//T.C : O(1) for both methods
+//S.C : O(n) for the stream
 class ProductOfNumbers {
 public:
-   vector<int>vec;
+    vector<int> nums; //cumulative prod store karenge
+    int n;
+
     ProductOfNumbers() {
-        
+        nums.clear();
+        n = 0;
     }
     
     void add(int num) {
-        vec.push_back(num);
+        if(num == 0) {
+            nums = {};
+            n = 0;
+        } else {
+            if(nums.empty()) {
+                nums.push_back(num);
+            } else {
+                nums.push_back(nums[n-1] * num);
+            }
+            n++; //increasing size by 1
+        }
     }
     
     int getProduct(int k) {
-        int prod=1;
-        int n=vec.size(); // 5
-        int p=n-1; // 4
-        while(k--){
-            prod*=vec[p];
-            p--;
+        if(k > n) {
+            return 0;
+        } else if(k == n) {
+            return nums[n-1];
         }
-        return prod;
 
-        // 3 0 2 5 4 
+        return nums[n-1] / nums[n-k-1];
     }
 };
-
-/**
- * Your ProductOfNumbers object will be instantiated and called as such:
- * ProductOfNumbers* obj = new ProductOfNumbers();
- * obj->add(num);
- * int param_2 = obj->getProduct(k);
- */
